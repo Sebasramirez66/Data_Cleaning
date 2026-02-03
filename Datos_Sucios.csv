@@ -1,4 +1,4 @@
-user_id,purchase_date,product,price,city,session_minutes
+Usuario,Fecha_Compra,Producto,Precio,Ciudad,Minutos_de_Sesion
 1051,01/01/2024,Laptop,282.21,bogota,7.0
 1092,02/01/2024,Teclado,208.24,,3.0
 1014,01-03-2024,Teclado,290.83,,21.3
@@ -499,3 +499,4 @@ user_id,purchase_date,product,price,city,session_minutes
 1021,12/05/2025,Mouse,273.48,Medellin,4.9
 1092,13/05/2025,Monitor,316.84,Cali,14.1
 1066,05-14-2025,Teclado,286.83,Cali,2.5
+
