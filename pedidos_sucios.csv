@@ -119,3 +119,10 @@ id_pedido,id_compra,fecha_pedido,estado_pedido,metodo_envio,costo_envio
 3117,2047,2025/13/40,Enviado,Express,24.82
 3118,2009,14/1/2025,Enviado,ESTANDAR,31.05
 3119,2056,2025/13/40,Enviado,Express,28.36
+3114,2088,2-19-2025,en_proceso,,24.46
+3115,2096,2025/13/40,ENTREGADO,express,22.51
+3116,2032,5-17-2025,entregado,Estandar,18.2
+3117,2047,2025/13/40,Enviado,Express,24.82
+3118,2009,14/1/2025,Enviado,ESTANDAR,31.05
+3119,2056,2025/13/40,Enviado,Express,28.36
+
