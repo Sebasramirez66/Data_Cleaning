@@ -1,0 +1,121 @@
+id_cliente,nombre,email,ciudad,segmento,fecha_registro
+1000,Camilo,camilo1000@gmail.com,bogota,VIP,2025/13/40
+1001,Marta,marta1001@gmail.com,Medellin,Vip,5-7-2023
+1002,Camilo,camilo1002@gmail.com,,,2025/13/40
+1003,Jose,jose1003@gmail.com,Bogota,VIP,2023/13/40
+1004,Marta,marta1004@gmail.com,CALI,VIP,5-2-2024
+1005,Valentina,valentina1005@gmail.com,B/quilla,,28/2/2024
+1006,Maria,maria1006@gmail.com,Barranquilla,regular,12-26-2023
+1007,Ana,ana1007@gmail.com, ,Vip,25/12/2023
+1008,Sofia,sofia1008@gmail.com,MEDELLIN,Vip,2025/13/40
+1009,Sofia,sofia1009@gmail.com,bogota,vip,2024/13/40
+1010,Sofia,sofia1010@gmail.com,Nan,REGULAR,2023/13/40
+1011,Ana,ana1011@gmail.com,,premium,2025/13/40
+1012,Jose,jose1012@gmail.com,bogota,,4-25-2024
+1013,Camilo,camilo1013@gmail.com,Barranquilla,REGULAR,10-9-2024
+1014,Valentina,valentina1014@gmail.com,bogota,VIP,2023/13/40
+1015,Pedro,pedro1015@gmail.com,bogota,Regular,2025/13/40
+1016,Jose,jose1016@gmail.com,MEDELLIN,premium,1-4-2025
+1017,Sofia,sofia1017@gmail.com,BOGOTA,REGULAR,6-22-2024
+1018,Camilo,camilo1018@gmail.com,MEDELLIN,vip,2-26-2024
+1019,Carlos,carlos1019@gmail.com,CALI,Regular,2024/13/40
+1020,Jose,jose1020@gmail.com,MEDELLIN,,2025/13/40
+1021,Sofia,sofia1021@gmail.com,Nan,VIP,21/8/2023
+1022,Ana,ana1022@gmail.com, ,REGULAR,5-24-2024
+1023,Luis,luis1023@gmail.com,Medellin,REGULAR,28/12/2023
+1024,Maria,maria1024@gmail.com,Cali,premium,2023/13/40
+1025,Carlos,carlos1025@gmail.com,Medellin,,2023/13/40
+1026,Valentina,valentina1026@gmail.com,Barranquilla,PREMIUM,2025/13/40
+1027,Jose,jose1027@gmail.com,medellin,Regular,27/1/2025
+1028,Carlos,carlos1028@gmail.com,CALI,premium,26/7/2024
+1029,Ana,ana1029@gmail.com,Nan,vip,9-8-2025
+1030,Carlos,carlos1030@gmail.com, ,PREMIUM,7-23-2023
+1031,Jose,jose1031@gmail.com,Cali,premium,3-12-2023
+1032,Andres,andres1032@gmail.com,Nan,VIP,2025/13/40
+1033,Luis,luis1033@gmail.com,B/quilla,,1/3/2023
+1034,Camilo,camilo1034@gmail.com,medellin,vip,2024/13/40
+1035,Carlos,carlos1035@gmail.com,cali,VIP,2025/13/40
+1036,Valentina,valentina1036@gmail.com,MEDELLIN,,28/10/2024
+1037,Andres,andres1037@gmail.com,bogota,regular,17/7/2025
+1038,Andres,andres1038@gmail.com,Barranquilla,Regular,2024/13/40
+1039,Carlos,carlos1039@gmail.com,CALI,,4/11/2023
+1040,Laura,,medellin,premium,11-19-2025
+1041,Sofia,sofia1041@gmail.com,Nan,regular,10-13-2024
+1042,Marta,marta1042@gmail.com,Barranquilla,vip,5-6-2023
+1043,Maria,maria1043@gmail.com,Nan,vip,2024/13/40
+1044,Andres,andres1044@gmail.com, ,Vip,1/7/2023
+1045,Maria,maria1045@gmail.com,CALI,Vip,25/11/2023
+1046,Laura,laura1046@gmail.com,Cali,Regular,3-7-2023
+1047,Valentina,valentina1047@gmail.com,,Regular,5/9/2025
+1048,Jose,jose1048@gmail.com,B/quilla,REGULAR,2025/13/40
+1049,Andres,andres1049@gmail.com,cali,vip,24/6/2025
+1050,Luis,luis1050@gmail.com,medellin,VIP,1-26-2023
+1051,Marta,,Barranquilla,Regular,3/2/2025
+1052,Valentina,valentina1052@gmail.com,B/quilla,VIP,24/1/2023
+1053,Ana,ana1053@gmail.com,Nan,REGULAR,1-2-2025
+1054,Marta,marta1054@gmail.com,MEDELLIN,premium,5/7/2024
+1055,Carlos,carlos1055@gmail.com,,premium,2/3/2023
+1056,Maria,maria1056@gmail.com, ,PREMIUM,2024/13/40
+1057,Luis,luis1057@gmail.com,B/quilla,PREMIUM,27/8/2025
+1058,Jose,jose1058@gmail.com,cali,VIP,24/6/2025
+1059,Camilo,camilo1059@gmail.com,bogota,VIP,2024/13/40
+1060,Sofia,sofia1060@gmail.com, ,vip,2025/13/40
+1061,Marta,marta1061@gmail.com,CALI,premium,2024/13/40
+1062,Carlos,carlos1062@gmail.com,MEDELLIN,premium,2025/13/40
+1063,Luis,luis1063@gmail.com,cali,,7/4/2025
+1064,Camilo,camilo1064@gmail.com,CALI,VIP,8-7-2023
+1065,Marta,marta1065@gmail.com,BOGOTA,PREMIUM,28/11/2023
+1066,Marta,marta1066@gmail.com,Nan,PREMIUM,2023/13/40
+1067,Carlos,carlos1067@gmail.com,Cali,VIP,2024/13/40
+1068,Pedro,pedro1068@gmail.com, ,premium,20/9/2024
+1069,Valentina,valentina1069@gmail.com,,,1-16-2024
+1070,Maria,maria1070@gmail.com,BOGOTA,Regular,2023/13/40
+1071,Ana,ana1071@gmail.com,Barranquilla,,2023/13/40
+1072,Sofia,sofia1072@gmail.com,Bogota,VIP,4-24-2025
+1073,Andres,andres1073@gmail.com,Nan,,2023/13/40
+1074,Andres,andres1074@gmail.com,bogota,Vip,8-4-2023
+1075,Luis,luis1075@gmail.com,B/quilla,Regular,3-16-2024
+1076,Laura,laura1076@gmail.com,Medellin,VIP,25/3/2023
+1077,Jose,jose1077@gmail.com,B/quilla,,2-2-2024
+1078,Pedro,pedro1078@gmail.com,Medellin,REGULAR,4/9/2025
+1079,Jose,jose1079@gmail.com,BOGOTA,regular,2023/13/40
+1080,Luis,luis1080@gmail.com,Bogota,premium,2025/13/40
+1081,Laura,laura1081@gmail.com,bogota,vip,6-23-2025
+1082,Andres,andres1082@gmail.com,MEDELLIN,Vip,6/6/2024
+1083,Luis,luis1083@gmail.com,Medellin,REGULAR,2025/13/40
+1084,Maria,maria1084@gmail.com,Nan,,2-21-2025
+1085,Laura,, ,,15/12/2023
+1086,Andres,andres1086@gmail.com,MEDELLIN,vip,2023/13/40
+1087,Carlos,carlos1087@gmail.com,MEDELLIN,vip,1-17-2025
+1088,Valentina,valentina1088@gmail.com,CALI,Vip,2023/13/40
+1089,Laura,laura1089@gmail.com,Medellin,REGULAR,24/5/2023
+1090,Camilo,camilo1090@gmail.com,Nan,regular,3/5/2023
+1091,Pedro,pedro1091@gmail.com,Nan,VIP,23/5/2025
+1092,Jose,,Nan,regular,2-25-2025
+1093,Sofia,sofia1093@gmail.com, ,Vip,2025/13/40
+1094,Pedro,pedro1094@gmail.com,BOGOTA,premium,2024/13/40
+1095,Jose,jose1095@gmail.com,CALI,VIP,2024/13/40
+1096,Valentina,,BOGOTA,,10-2-2025
+1097,Sofia,sofia1097@gmail.com,Barranquilla,,1/8/2023
+1098,Carlos,carlos1098@gmail.com,Bogota,regular,2025/13/40
+1099,Ana,ana1099@gmail.com,medellin,Regular,10-23-2023
+1100,Camilo,camilo1100@gmail.com,bogota,REGULAR,25/2/2025
+1101,Jose,jose1101@gmail.com,Barranquilla,Vip,25/7/2024
+1102,Marta,marta1102@gmail.com,Nan,Vip,8-14-2023
+1103,Carlos,carlos1103@gmail.com,Cali,VIP,7-15-2025
+1104,Sofia,sofia1104@gmail.com, ,PREMIUM,2024/13/40
+1105,Valentina,valentina1105@gmail.com, ,Regular,10-22-2023
+1106,Valentina,valentina1106@gmail.com,bogota,PREMIUM,6-17-2024
+1107,Maria,maria1107@gmail.com,Medellin,Regular,11/6/2024
+1108,Maria,maria1108@gmail.com,medellin,regular,21/8/2023
+1109,Marta,marta1109@gmail.com,Medellin,VIP,6/4/2025
+1110,Jose,jose1110@gmail.com,medellin,regular,23/3/2024
+1111,Pedro,pedro1111@gmail.com,medellin,,12-10-2024
+1112,Andres,andres1112@gmail.com,medellin,VIP,2025/13/40
+1113,Pedro,,BOGOTA,regular,2025/13/40
+1114,Laura,laura1114@gmail.com,Cali,REGULAR,26/5/2024
+1115,Sofia,sofia1115@gmail.com,Cali,,9/7/2024
+1116,Laura,,Medellin,regular,26/10/2023
+1117,Jose,jose1117@gmail.com,Bogota,,22/2/2025
+1118,Andres,andres1118@gmail.com,B/quilla,Regular,1/5/2023
+1119,Luis,luis1119@gmail.com,B/quilla,REGULAR,22/5/2025
